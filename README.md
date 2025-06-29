@@ -45,37 +45,67 @@
 ## 🧠 Tech Skills
 
 ### 🧑‍💻 Query & Programming Languages  
-- 🔎 Query Languages: `SQL`, `DSQL (MongoDB)`, `Spark SQL (PySpark)`, `MQL (Excel/Power BI)`, `DAX (Power BI)`, `LookML`, `JSQL (Jira)`  
-- 🐍 Programming: `Python` (`NumPy`, `Pandas`, `PySpark`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`, `xgboost`, ...)  
-- 🌐 Web Basic Knowledge: `HTML`  
+- 🔎 **Query Languages**:  
+  `SQL`, `MQL (Excel/Power BI)`, `LookML`, `JSQL (Jira)`  
+- 🐍 **Programming (Python)**:  
+  `NumPy`, `Pandas`, `PySpark`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`, `xgboost`  
+- 🌐 **Web Basics**:  
+  `HTML`
+
+---
 
 ### ⚙️ Data Workflow & Automation  
-- 🔄 Data Processing: `PySpark`  
-- 🧩 Orchestration & Workflow: `n8n`, `Docker`, `Google Apps Script`  
-- 🤖 Automation & Scripting: `Shell scripting`, `Workflow design`, `Form automation`  
+- 🔄 **Data Processing**:  
+  `PySpark`  
+- 🧩 **Orchestration & Workflow**:  
+  `n8n`, `Docker`, `Google Apps Script`  
+- 🤖 **Automation & Scripting**:  
+  `Shell scripting`, `Workflow design`, `Form automation`
+
+---
 
 ### 📊 Business Intelligence & Visualization  
-- 📈 BI Tools: `Power BI`, `Looker Studio`, `Tableau`, `Metabase`  
-- 🎨 Visualization Libraries: `Plotly`, `Seaborn`, `Matplotlib`  
+- 📈 **BI Tools**:  
+  `Power BI`, `Looker Studio`, `Tableau`, `Metabase`  
+- 🎨 **Visualization Libraries**:  
+  `Plotly`, `Seaborn`, `Matplotlib`
+
+---
 
 ### 🛢️ Databases & Data Handling  
-- 🗃️ SQL-based: `Oracle`, `SQL Server`, `PostgreSQL`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`  
-- 🧹 Data Management: `Data cleaning`, `Schema design`, `Versioning`  
+- 🗃️ **SQL-based DBs**:  
+  `Oracle`, `SQL Server`, `PostgreSQL`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`  
+- 🧹 **Data Management**:  
+  `Data cleaning`, `Schema design`, `Versioning`
+
+---
 
 ### 📈 Analytics & Modeling  
-- 🔍 `EDA & Feature Engineering`  
-- 📊 Statistical Modeling: `Regression`, `Clustering`, `Hypothesis Testing`  
-- 🧪 Experimentation: `A/B Testing`, `KPI tracking`, `Retention Analysis`  
+- 🔍 **EDA & Feature Engineering**  
+- 📊 **Statistical Modeling**:  
+  `Regression`, `Clustering`, `Hypothesis Testing`  
+- 🧪 **Experimentation**:  
+  `A/B Testing`, `KPI tracking`, `Retention Analysis`
+
+---
 
 ### 📚 Documentation & Collaboration  
-- 🗂️ Version Control: `Git`, `GitHub`  
-- 📝 Docs & Storytelling: `Markdown`, `Google Docs`, `Confluence`, `Notion`  
-- 🤝 Collaboration: `Google Workspace`, `Jira`, `Trello`  
+- 🗂️ **Version Control**:  
+  `Git`, `GitHub`  
+- 📝 **Docs & Storytelling**:  
+  `Markdown`, `Google Docs`, `Confluence`, `Notion`  
+- 🤝 **Collaboration Tools**:  
+  `Google Workspace`, `Jira`, `Trello`
+
+---
 
 ### 🔧 Others  
-- 🛠️ Tools & IDEs: `VS Code`, `Jupyter Notebook`, `DBeaver`  
-- 🎨 Design & Diagramming: `Figma`, `draw.io`, `Canva`  
-- 🧾 Office Productivity: `Excel`, `Word`, `PowerPoint`  
+- 🛠️ **Tools & IDEs**:  
+  `VS Code`, `Jupyter Notebook`, `DBeaver`  
+- 🎨 **Design & Diagramming**:  
+  `Figma`, `draw.io`, `Canva`  
+- 🧾 **Office Productivity**:  
+  `Excel`, `Word`, `PowerPoint`  
 
 ---
 
