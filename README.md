@@ -5,9 +5,9 @@
 <h1 align="center">🚀 Greetings from the Data Galaxy! I'm <strong>Dong Nguyen</strong> 👨‍🚀</h1>
 
 <p align="center">
-  <a href="mailto:dongnguyenvan.nice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:dongnguyenvan.nuce@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/dongnguyenvan-work"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/donglearnsdata/portfolio-projects"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="[https://github.com/donglearnsdata/portfolio-projects](https://github.com/donglearnsda/portfolio-projects)"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
 <p align="center">
@@ -151,7 +151,7 @@
 
 ```yaml
 astronaut_id: Dong Nguyen  
-base_location: Hanoi, Earth 🌍  
+base_location: Vietnam, Earth 🌍  
 commlink:
   - 📧 email: dongnguyenvan.nuce@gmail.com
   - 🌐 linkedin: https://linkedin.com/in/dongnguyenvan-work
