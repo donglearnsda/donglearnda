@@ -2,7 +2,7 @@
   <img src="https://github.com/AzmSurov/AzmSurov/raw/master/Rainbow.gif" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Dong Nguyen👋<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">🚀 Greetings from the Data Galaxy! I'm <strong>Dong Nguyen</strong> 👨‍🚀</h1>
 
 <p align="center">
   <a href="mailto:dongnguyenvan.nice@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=F97316&center=true&width=800&lines=Data+Analyst+%7C+BI+Engineer+%7C+AI+Automation+Learner;Python+%7C+SQL+%7C+Power+BI+%7C+LangChain;Dynamic+and+results+driven+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=38BDF8&center=true&width=800&lines=Exploring+data+like+a+cosmic+map;Turning+patterns+into+insights;Automating+the+boring+to+focus+on+the+meaningful;Always+curious+%7C+Always+learning" />
 </p>
 
 ---
@@ -25,10 +25,10 @@
 ---
 
 ## 🎯 Focus Areas  
-- Customer behavior analysis & retention modeling  
-- Data pipeline & dashboard automation  
-- Business intelligence for digital products  
-- Insight storytelling & decision-making support
+- 👥 Customer behavior analysis & retention modeling  
+- 🔁 Data pipeline & dashboard automation  
+- 💼 Business intelligence for digital products  
+- 🧠 Insight storytelling & decision-making support 
 
 ---
 
@@ -45,45 +45,53 @@
 ## 🧠 Tech Skills
 
 ### 🧑‍💻 Query & Programming Languages  
-- 🔎 Query Languages: SQL, DSQL (MongoDB), Spark SQL (PySpark), MQL (Excel/Power BI), DAX (Power BI), LookML, JSQL (Jira)  
-- 🐍 Programming: Python (NumPy, Pandas, PySpark, Matplotlib, Seaborn, Plotly, Scikit-learn, xgboost, ...)  
-- 🌐 Web Basic Knowledge: HTML  
+- 🔎 Query Languages: `SQL`, `DSQL (MongoDB)`, `Spark SQL (PySpark)`, `MQL (Excel/Power BI)`, `DAX (Power BI)`, `LookML`, `JSQL (Jira)`  
+- 🐍 Programming: `Python` (`NumPy`, `Pandas`, `PySpark`, `Matplotlib`, `Seaborn`, `Plotly`, `Scikit-learn`, `xgboost`, ...)  
+- 🌐 Web Basic Knowledge: `HTML`  
 
 ### ⚙️ Data Workflow & Automation  
-- 🔄 Data Processing: PySpark  
-- 🧩 Orchestration & Workflow: n8n, Docker, Google Apps Script  
-- 🤖 Automation & Scripting: Shell scripting, Workflow design, Form automation  
+- 🔄 Data Processing: `PySpark`  
+- 🧩 Orchestration & Workflow: `n8n`, `Docker`, `Google Apps Script`  
+- 🤖 Automation & Scripting: `Shell scripting`, `Workflow design`, `Form automation`  
 
 ### 📊 Business Intelligence & Visualization  
-- 📈 BI Tools: Power BI, Looker Studio, Tableau, Metabase  
-- 🎨 Visualization Libraries: Plotly, Seaborn, Matplotlib  
+- 📈 BI Tools: `Power BI`, `Looker Studio`, `Tableau`, `Metabase`  
+- 🎨 Visualization Libraries: `Plotly`, `Seaborn`, `Matplotlib`  
 
 ### 🛢️ Databases & Data Handling  
-- 🗃️ SQL-based: Oracle, SQL Server, PostgreSQL, Trino, MySQL, SingleStoreDB, Google BigQuery  
-- 🧹 Data Management: Data cleaning, schema design, versioning  
+- 🗃️ SQL-based: `Oracle`, `SQL Server`, `PostgreSQL`, `Trino`, `MySQL`, `SingleStoreDB`, `Google BigQuery`  
+- 🧹 Data Management: `Data cleaning`, `Schema design`, `Versioning`  
 
 ### 📈 Analytics & Modeling  
-- 🔍 EDA & Feature Engineering  
-- 📊 Statistical Modeling: Regression, Clustering, Hypothesis Testing  
-- 🧪 Experimentation: A/B Testing, KPI tracking, Retention Analysis  
+- 🔍 `EDA & Feature Engineering`  
+- 📊 Statistical Modeling: `Regression`, `Clustering`, `Hypothesis Testing`  
+- 🧪 Experimentation: `A/B Testing`, `KPI tracking`, `Retention Analysis`  
 
 ### 📚 Documentation & Collaboration  
-- 🗂️ Version Control: Git, GitHub  
-- 📝 Docs & Storytelling: Markdown, Google Docs, Confluence, Notion  
-- 🤝 Collaboration: Google Workspace, Jira, Trello 
+- 🗂️ Version Control: `Git`, `GitHub`  
+- 📝 Docs & Storytelling: `Markdown`, `Google Docs`, `Confluence`, `Notion`  
+- 🤝 Collaboration: `Google Workspace`, `Jira`, `Trello`  
 
 ### 🔧 Others  
-- 🛠️ **Tools & IDEs**: VS Code, Jupyter Notebook, DBeaver  
-- 🎨 **Design & Diagramming**: Figma, draw.io, Canva  
-- 🧾 **Office Productivity**: Excel, Word, PowerPoint  
+- 🛠️ Tools & IDEs: `VS Code`, `Jupyter Notebook`, `DBeaver`  
+- 🎨 Design & Diagramming: `Figma`, `draw.io`, `Canva`  
+- 🧾 Office Productivity: `Excel`, `Word`, `PowerPoint`  
 
 ---
 
-## 📊 GitHub Stats
+## 🪐 GitHub Universe
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=donglearnsda&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglearnsda&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=donglearnsda&show_icons=true&theme=tokyonight&hide_title=false&hide=prs&count_private=true&include_all_commits=true&rank_icon=percentile" alt="Dong's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donglearnsda&layout=compact&theme=tokyonight&hide_title=false&langs_count=8" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=donglearnsda&theme=tokyonight&border_radius=6.5&fire=F97316&ring=38BDF8" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=donglearnsda&theme=tokyonight&column=7&margin-w=8" alt="GitHub Trophy" />
 </p>
 
 ---
@@ -109,9 +117,13 @@
 
 ---
 
-## 📫 Contact
+## 🛰️ Signal Station
 
 ```yaml
-email: dongnguyenvan.nuce@gmail.com
-linkedin: https://linkedin.com/in/dongnguyenvan-work
-portfolio: https://github.com/donglearnsda/portfolio-projects
+astronaut_id: Dong Nguyen  
+base_location: Hanoi, Earth 🌍  
+commlink:
+  - 📧 email: dongnguyenvan.nuce@gmail.com
+  - 🌐 linkedin: https://linkedin.com/in/dongnguyenvan-work
+  - 🪐 portfolio: https://github.com/donglearnsda/portfolio-projects
+mission_status: 🟢 Open for collaboration, exploration & deep data dives!
