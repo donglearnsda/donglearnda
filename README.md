@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=38BDF8&center=true&width=800&lines=Data+Analyst+%7C+BI Engineer;Turning+patterns+into+insights;Automating+the+boring+to+focus+on+the+meaningful;Always+curious+%7C+Always+learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=38BDF8&center=true&width=800&lines="Data+Analyst+%7C+BI Engineer;Turning+patterns+into+insights;Automating+the+boring+to+focus+on+the+meaningful;Always+curious+%7C+Always+learning" />
 </p>
 
 ---
